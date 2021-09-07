@@ -1,7 +1,7 @@
 # repo_trmexico_itzel
 Repo para los archivos de los colores (: 
 
-Nombre Color Hexadecimal
+Nombre Color Hexadecima
 repo_trmexico_raymundo cyan #00ffff
 repo_trmexico_cassandra navy #000080
 repo_trmexico_itzel green #008000
